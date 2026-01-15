@@ -85,9 +85,6 @@ Contains the final project presentation summarizing findings and recommendations
 ### `/docs`
 Contains the official project brief and supporting documentation.
 
-### `/data`
-Includes a README explaining how to structure and load datasets locally.
-
 ## Key Findings (Summary)
 - Feature scaling significantly improves model performance.
 - Decision Trees provide strong interpretability but risk overfitting.
